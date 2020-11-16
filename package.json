@@ -1,0 +1,19 @@
+{
+  "name": "mooc-cli",
+  "version": "1.0.0",
+  "description": "A tool to search for MOOC courses from your command line",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aneeshkodali/mooc-cli.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aneeshkodali/mooc-cli/issues"
+  },
+  "homepage": "https://github.com/aneeshkodali/mooc-cli#readme"
+}
